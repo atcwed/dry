@@ -1,0 +1,1 @@
+Coloca tus modelos y texturas en public/assets/

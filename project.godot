@@ -1,0 +1,4 @@
+[application]
+
+config/name="SuperGameGodot"
+config/description="Plantilla mínima para Godot 4 - reemplaza sprites y escenas"
